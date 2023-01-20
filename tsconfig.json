@@ -29,5 +29,6 @@
     ]
   },
   "include": ["src/**/*.ts"],
-  "exclude": []
+  "exclude": [],
+  "types": "my-element.d.ts"
 }
