@@ -1,7 +1,7 @@
 {
-  "name": "@lit/lit-starter-ts",
+  "name": "@serdec/seed-ui-lit",
   "private": true,
-  "version": "1.0.5",
+  "version": "0.0.1",
   "description": "A simple web component",
   "main": "my-element.js",
   "module": "my-element.js",
@@ -66,5 +66,6 @@
     "rollup-plugin-terser": "^7.0.2",
     "typescript": "~4.7.4"
   },
-  "customElements": "custom-elements.json"
+  "customElements": "custom-elements.json",
+  "types": "my-element.d.ts"
 }
